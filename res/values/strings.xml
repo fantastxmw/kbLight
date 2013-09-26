@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keyboard backlight controller</string>
+    <string name="pref_lock_on_key">pref_lock_on_key</string>
+    <string name="pref_lock_on_title">Lock on bklight</string>
+    <string name="pref_lock_on_summary">Keep the backlight of buttons always on</string>
+
+    <string name="pref_lock_on_with_screen_on_key">pref_lock_on_with_screen_on_key</string>
+    <string name="pref_lock_on_with_screen_on_title">only when screen on</string>
+    <string name="pref_lock_on_with_screen_on_summary">Keep the backlight of buttons on when screen is on</string>
+
+    <string name="pref_lock_off_key">pref_lock_off_key</string>
+    <string name="pref_lock_off_title">Lock off bklight</string>
+    <string name="pref_lock_off_summary">Keep the backlight of buttons off</string>
+</resources>

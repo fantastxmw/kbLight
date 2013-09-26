@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:key="@string/pref_lock_on_key" android:title="@string/pref_lock_on_title" android:summary="@string/pref_lock_on_summary"></CheckBoxPreference>
+    <CheckBoxPreference android:key="@string/pref_lock_on_with_screen_on_key" android:title="@string/pref_lock_on_with_screen_on_title" android:dependency="@string/pref_lock_on_key" android:summary="@string/pref_lock_on_with_screen_on_summary"></CheckBoxPreference>
+    <CheckBoxPreference android:key="@string/pref_lock_off_key" android:title="@string/pref_lock_off_title" android:summary="@string/pref_lock_off_summary"></CheckBoxPreference>
+</PreferenceScreen>
